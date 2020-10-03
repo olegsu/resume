@@ -1,0 +1,84 @@
+basics:
+  name: Oleg Sucharevich
+  label: Principal Software Engineer
+  picture: https://media-exp1.licdn.com/dms/image/C5103AQG_Y7owwYhgOQ/profile-displayphoto-shrink_200_200/0?e=1606953600&v=beta&t=t_CCe_DNpqdXmAtw4k4izS3N7lGy3rGBMWH7bMxA05A
+  email: oleg2807@gmail.com
+  website: https://olegsu.github.io
+  summary: |
+    Oleg Sucharevich is a backend developer at Codefresh with strong experience writing Node.JS and Go applications.
+    He's part of a small team, building a CI/CD platform for Docker-based applications with a strong orientation to Kubernetes.
+    Oleg is focused on both the research and implementation of Codefresh roadmap in the CI/CD world.
+    Oleg is a speaker at local meetups, he is mostly speaking about Kubernetes and the CNCF related technologies world.
+    Oleg is a maintainer of some open-source tools and a contributor to others.
+  location:
+    countryCode: IL
+    region: Beer-Sheva
+  profiles:
+    - network: GitHub
+      username: olegsu
+      url: https://github.com/olegsu
+    - network: LinkedIn
+      username: oleg-sucharevich
+      url: https://www.linkedin.com/in/oleg-sucharevich
+work:
+  - company: Codefresh
+    position: Senior Software Engineer & Backend Architect
+    website: https://www.codefresh.io/
+    startDate: '2016-11-01'
+    summary: Building Codefresh SAAS platform that runs CI/CD workflows.
+    highlights:
+      - Software enginner accountable for Codefresh SAAS platform as whole.
+      - Responsible for Codefresh pipeline execution engine which is used by Codefresh's users to run their CI/CD pipeline
+      - Lead Codefresh "behind firewall" agenda which enables Codefresh to execute the workflow engine in most secured systems while staying connected to the SAAS environment.
+      - Involve and maintain a healthy relationship with Codefresh costumers over virtual communication tools or onsite visits for troubleshooting, professional services.
+      - Research and Development of Codefresh roadmap in the CI/CD world including most recent of the CNCF technologies.
+      - Contribution to open-source projects (Kuberntes SIG's, ArgoCD).
+awards: []
+volunteer: []
+references: []
+education: 
+  - institution: Sami-Shamoon - College of Engineering
+    area: Software Engineering
+    studyType: B.Sc
+    startDate: '2012-09-01'
+    endDate: '2016-09-01'
+publications: 
+  - name: Blogs
+    publisher: Medium (https://medium.com/@olegsucharevich)
+    website: https://medium.com/@olegsucharevich
+  - name: Kubernetes Introduction Workshop
+    publisher: Youtube (https://www.youtube.com/watch?v=I_6etqWoJhE)
+    website: https://www.youtube.com/watch?v=I_6etqWoJhE
+    releaseDate: '2019'
+  - name: Central Europe Tech Week
+    publisher: Conference (https://www.meetup.com/cloud-native-czechia/events/260304125/)
+    website: https://www.meetup.com/cloud-native-czechia/events/260304125/
+    releaseDate: '2019'
+  - name: Helm in the real world - stories from Soluto and Codefresh
+    publisher: Local Meetup (https://www.meetup.com/Kubernetes-Tel-Aviv/events/248536747/)
+    website: https://www.meetup.com/Kubernetes-Tel-Aviv/events/248536747/
+    releaseDate: '2018'
+skills:
+  - name: Backend
+    level: Master
+    keywords: 
+      - Golang
+      - Node.JS
+  - name: DevOps
+    level: Master
+    keywords: 
+      - Kubernetes
+      - AWS
+      - Containers
+      - Docker
+languages: 
+  - language: Hebrew
+  - language: English
+  - language: Russian
+interests: 
+  - name: Productivity
+  - name: Podcasts & Books
+  - name: Economcy 
+  - name: History 
+  - name: Traveling
+  - name: Yoga & Meditation
